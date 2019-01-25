@@ -4,7 +4,13 @@ public class myScript{
 
 	public void show()
 	{
+		
 		System.out.println(one);
+	}
+
+	public void message()
+	{
+		System.out.println("Hey this is a dummy message");
 	}
 }
 
